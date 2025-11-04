@@ -24,7 +24,7 @@ Network reconnaissance tool for authorized security testing and educational purp
 ## Installation
 
 ```bash
-git clone https://github.com/0x127/Elysium
+git clone https://github.com/00x127/Elysium
 cd Elysium
 chmod +x scanner.py
 ```
