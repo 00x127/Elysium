@@ -35,9 +35,9 @@ Requirements: Python 3.6+
 
 ### Basic Scanning
 
-Scan common ports:
+Scan all ports:
 ```bash
-python3 scanner.py 192.168.1.1
+python3 scanner.py 192.168.1.1 -p all
 ```
 
 Scan specific ports:
